@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CLACS"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CLACS.edit"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CLACS.editor"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GCLACS"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GCLACS.edit"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GCLACS.editor"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GCLACS.diagram"/>
+	<classpathentry kind="lib" path="C:/Users/Nicolas/Downloads/Dépendances/eclipse/plugins/org.eclipse.emf.ecore_2.3.2.v200802051830.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

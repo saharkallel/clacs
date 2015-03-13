@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CLACS"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CLACS.edit"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CLACS.editor"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GCLACS"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GCLACS.edit"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GCLACS.editor"/>
+	<classpathentry exported="true" kind="src" path="/CLACStoSCL_Plugin">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/chouki/Desktop/workspace/CLACStoSCL_Plugin"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/GCLACS.diagram"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
